@@ -26,14 +26,15 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
-  - title: Github
-    url: https://github.com/roachhd/katiebclick
+  - title: Blog
+    url: /blog
+  - title: Instagram
+    url: https://instagram.com/RoachHD
     external: true
+ - title: Collections
+    url: /collections
   - title: Katie Who?
-    url: http://katieball.me
-    external: true
+    url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
