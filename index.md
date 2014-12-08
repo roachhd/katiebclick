@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Katie B Click"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [Jekyll, blog, photography]
 image:
   feature: typewriter.jpg
 ---
