@@ -27,7 +27,7 @@ tools:
 # For external links add external: true
 links:
   - title: Blog
-    url: /blog
+    url: /articles
   - title: Instagram
     url: https://instagram.com/RoachHD
     external: true
