@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: home
 title: "Katie B Click"
 tags: [Jekyll, blog, photography]
 image:
-  feature: typewriter.jpg
+  feature: soft-trees.jpg
 ---
-
-Thought I'd put some content here too check 😁 
