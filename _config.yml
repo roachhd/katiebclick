@@ -28,16 +28,15 @@ tools:
 links:
   - title: Blog
     url: /articles
-  - title: Instagram
-    url: https://instagram.com/RoachHD
-    external: true
   - title: Collections
-    url: /collections
+    url: collectionsexternal: false
+  - title: Exegesis
+    url: /exegesis
   - title: Katie Who?
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Melbourne/Australia
 future:      true
 highlighter: pygments
 markdown:    kramdown
