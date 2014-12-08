@@ -26,14 +26,15 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Blog
+  - title: My blog
     url: /articles
-  - title: Collections
-    url: collections
   - title: Exegesis
     url: /exegesis
   - title: Katie Who?
     url: /about
+  - title: Collections
+    url: collections
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Melbourne/Australia
