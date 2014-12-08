@@ -7,9 +7,9 @@ Contact: {{ site.owner.email }}
 Twitter: {{ site.owner.twitter }}
 Location: {{ site.owner.location }}
                            
-/* THANKS */                           
-Creator of Balzac theme: Cole Townsend
-Twitter: @twnsndco
+/* REPO */                           
+Creator of katiebclick: Katie Ball
+Twitter: @mektball
 
 /* SITE */                         
 Last update: {{ site.time | date: '%F' }}
