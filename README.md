@@ -3,13 +3,13 @@ katiebclick Uni SP4
 ![Travis-ci status](http://travis-ci.org/roachhd/katiebclick.svg?gh-pages=66eee16)
 [![Gem Version](https://badge.fury.io/rb/github-pages.svg)](http://badge.fury.io/rb/github-pages) [![Build Status](https://travis-ci.org/github/pages-gem.svg?branch=master)](https://travis-ci.org/github/pages-gem)
 
-A content-first, Jekyll powered blog for Uni, study period 4 2014 - 15.
-Served up by [Poole](http://getpoole.com/), [Jekyll's](http://jekyllrb.com/) diligent butler.
+--
 
 
----
+A content-first blog for Uni, study period 4 2014 - 15.
 
-This is powered by [Jekyll](http://jekyllrb.com) and built on the [Semantic.gs](http://semantic.gs/) grid with some twerking to make it fluid. A MD freely hosted in[GitHub Pages](http://pages.github.com)
+Powered by [Jekyll](http://jekyllrb.com) and built on the [Semantic.gs](http://semantic.gs/) grid with some twerking to make it fluid. A MD freely hosted in[GitHub Pages](http://pages.github.com)
+
 
 #### Site Features
 
