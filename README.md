@@ -9,7 +9,7 @@ Served up by [Poole](http://getpoole.com/), [Jekyll's](http://jekyllrb.com/) dil
 
 ---
 
-This is powered by [Jekyll](http://jekyllrb.com) and built on the Semantic.gs grid framework with some twerking to make it fluid. A MD freely hosted in[GitHub Pages](http://pages.github.com)
+This is powered by [Jekyll](http://jekyllrb.com) and built on the [Semantic.gs](http://semantic.gs/) grid with some twerking to make it fluid. A MD freely hosted in[GitHub Pages](http://pages.github.com)
 
 #### Site Features
 
