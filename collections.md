@@ -1,11 +1,11 @@
 ---
 layout: post
-permalink: //collections/index.html
 title: Collections
 description: Actually cliche Austin sriracha hella, meditation occupy church-key synth. Shabby chic American Apparel VHS Thundercats ugh church-key
 tags: [about, Jekyll, Katie B ,Click, katiebclick]
 image:
   feature: soft-trees.jpg
+permalink: /collections/index.html
 ---
 
 ###### My directory of collections and extras.
@@ -20,4 +20,3 @@ image:
 So this should be a lovely collection of things ask about my website choices and photography.
 
 Need to as the `exegesis`
-
