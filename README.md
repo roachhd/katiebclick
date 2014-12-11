@@ -3,7 +3,7 @@ katiebclick Uni SP4
 ![Travis-ci status](http://travis-ci.org/roachhd/katiebclick.svg?gh-pages=66eee16)
 [![Gem Version](https://badge.fury.io/rb/github-pages.svg)](http://badge.fury.io/rb/github-pages) [![Build Status](https://travis-ci.org/github/pages-gem.svg?branch=master)](https://travis-ci.org/github/pages-gem)
 
---
+---
 
 
 A content-first blog for Uni, study period 4 2014 - 15.
