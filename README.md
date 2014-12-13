@@ -1,6 +1,6 @@
 katiebclick Uni SP4
 =======
-![Travis-ci status](http://travis-ci.org/roachhd/katiebclick.svg?gh-pages=66eee16)
+![Travis-ci status](http://travis-ci.org/roachhd/katiebclick.svg?gh-pages=f58e7f1)
 [![Gem Version](https://badge.fury.io/rb/github-pages.svg)](http://badge.fury.io/rb/github-pages) [![Build Status](https://travis-ci.org/github/pages-gem.svg?branch=master)](https://travis-ci.org/github/pages-gem)
 
 ---
