@@ -8,7 +8,7 @@ katiebclick Uni SP4
 
 A content-first blog for Uni, study period 4 2014 - 15.
 
-Powered by [Jekyll](http://jekyllrb.com) and built on the [Semantic.gs](http://semantic.gs/) grid with some twerking to make it fluid. A MD freely hosted in[GitHub Pages](http://pages.github.com)
+Powered by [Jekyll](http://jekyllrb.com) and built on the [Semantic.gs](http://semantic.gs/) grid with some twerking to make it fluid. Securely & freely hosted in[GitHub Pages](http://pages.github.com)
 
 
 #### Site Features
