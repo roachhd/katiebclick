@@ -2,6 +2,9 @@ katiebclick Uni SP4
 =======
 ![Travis-ci status](http://travis-ci.org/roachhd/katiebclick.svg?gh-pages=f58e7f1)
 [![Gem Version](https://badge.fury.io/rb/github-pages.svg)](http://badge.fury.io/rb/github-pages) [![Build Status](https://travis-ci.org/github/pages-gem.svg?branch=master)](https://travis-ci.org/github/pages-gem) [![Dependency Status](https://www.versioneye.com/user/projects/548baae5dd709d811f0000bd/badge.svg?style=flat)](https://www.versioneye.com/user/projects/548baae5dd709d811f0000bd)
+[![Code Climate](https://codeclimate.com/github/roachhd/katiebclick/badges/gpa.svg)](https://codeclimate.com/github/roachhd/katiebclick) [![Test Coverage](https://codeclimate.com/github/roachhd/katiebclick/badges/coverage.svg)](https://codeclimate.com/github/roachhd/katiebclick)
+
+
 
 ---
 
