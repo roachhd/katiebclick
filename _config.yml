@@ -33,7 +33,7 @@ links:
   - title: Katie Who?
     url: /about
   - title: Collections
-    url: collections
+    url: /collections
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
