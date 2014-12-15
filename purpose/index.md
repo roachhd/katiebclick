@@ -1,8 +1,8 @@
 ---
 layout: post
-permalink: /index.html
-title: Home
-tags: [home, Jekyll, Katie B ,Click, katiebclick]
+permalink: /purpose/index.html
+title: Purpose
+tags: [Jekyll, Katie B ,Click, katiebclick]
 image:
   feature: soft-trees.jpg
 ---
