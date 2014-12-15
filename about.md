@@ -1,5 +1,5 @@
 ---
-layout: anihead
+layout: post
 permalink: /about/index.html
 title: About
 description: Actually cliche Austin sriracha hella, meditation occupy church-key synth. Shabby chic American Apparel VHS Thundercats ugh church-key
