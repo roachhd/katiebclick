@@ -26,8 +26,8 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Blog
-    url: /index
+#  - title: Blog
+#    url: /index
   - title: Exegesis
     url: /exegesis
   - title: Katie Who?
