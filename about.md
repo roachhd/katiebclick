@@ -4,7 +4,7 @@ permalink: /about/index.html
 title: About
 description: Actually cliche Austin sriracha hella, meditation occupy church-key synth. Shabby chic American Apparel VHS Thundercats ugh church-key
 tags: [about, Jekyll, Katie B ,Click, katiebclick]
-image:
+# image:
   feature: soft-trees.jpg
 ---
 
