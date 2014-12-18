@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: anihead
 permalink: /about/index.html
 title: About
 description: Actually cliche Austin sriracha hella, meditation occupy church-key synth. Shabby chic American Apparel VHS Thundercats ugh church-key
 tags: [about, Jekyll, Katie B ,Click, katiebclick]
-image:
-  feature: "http://me.roachhaus.com/github/anihead/demo-2-bg.jpg"
 ---
 
 This is built on Semantic.gs grid framework which I edited a bit to make it fluid.
