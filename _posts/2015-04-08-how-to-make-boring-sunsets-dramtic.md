@@ -1,23 +1,19 @@
+---
+layout: post
+title: "How To Make Your Boring Sunsets Dramatic"
+description: "Examples and code for displaying images in posts."
+category: articles
+tags: [sample post, images, test]
+---
 
-[Source](http://www.digitalcameraworld.com/2014/04/17/how-to-make-a-boring-sunset-more-dramatic/ "Permalink to How to make a boring sunset more dramatic")
-
-# How to make a boring sunset more dramatic
-
-## How to make a boring sunset more dramatic
-
-[ ![How to make a boring sunset more dramatic][1]][2]
 
 _Do your sunrise and sunset images often look flat and dull? [Try these simple photo editing tips][3] to make them more dramatic!_
 
-The main problem when shooting sunrises or sunsets is getting detail in both the sky and foreground. [Even if you use a graduated neutral density filter][5], it's often impossible to get the balance exactly right.
+The main problem when shooting sunrises or sunsets is getting detail in both the sky and foreground. Even if you use a graduated neutral density filter, it's often impossible to get the balance exactly right.
 
 Shoot in Raw, though, and you'll find that the tools in Adobe Camera Raw (ACR) in Photoshop will allow you to get much more detail out of both the highlights and the shadows.
 
-**SEE MORE:** [Adobe Camera Raw – the secret to using it for just about everything][7]
-
 However, bear in mind that ACR has limits! You should always make sure that you k[eep as much highlight detail in the sky as possible][8] when you're shooting your sunrise and sunset images.
-
-**SEE MORE:** [Sunset photography – the only tutorial you'll ever need][9]
 
 ### How to give a dull sunset photo more impact
 
